@@ -1,0 +1,4 @@
+hamster-ui
+==========
+
+AngularJS UI
